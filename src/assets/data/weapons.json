@@ -1,0 +1,51 @@
+[
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/2dfcca3-0b33306-fa6d53e-255b542/weapon.png"
+    },
+    "name": "Assault Rifles",
+    "click":"weapons_ar"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/2e0cc84-d7c5820-2a7da26-257b7c0/weapon.png"
+    },
+    "name": "Shotguns",
+    "click":"weapons_shotgun"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/6b29884-84ab92f-10e31e3-7c2920e/weapon.png"
+    },
+    "name": "Snipers",
+    "click":"weapons_sniper"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/f5fbc30-00d409a-83eda7f-e054973/weapon.png"
+    },
+    "name": "Launchers",
+    "click":"weapons_launcher"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/493d8a1-e20b533-745f445-e0e13f9/weapon.png"
+    },
+    "name": "Pistols",
+    "click":"weapons_pistol"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/94a4067-2c77bd9-4a9298d-c26cc62/weapon.png"
+    },
+    "name": "SMGs",
+    "click":"weapons_smg"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/57b6951-e802207-e489192-cab1c10/weapon.png"
+    },
+    "name": "Machine Guns",
+    "click":"weapons_machinegun"
+  }
+]

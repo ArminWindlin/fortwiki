@@ -1,0 +1,23 @@
+[
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/59eb4f6-e81c036-42fab23-375205c.png"
+    },
+    "name": "All Skins",
+    "click":"skins_all"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/7e44eaf-733bec2-6608bc9-0d95834.png"
+    },
+    "name": "In Shop",
+    "click":"skins_shop"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/8873b8c-45119b7-7e63604-3a74b5f.png"
+    },
+    "name": "Upcoming",
+    "click":"skins_upcoming"
+  }
+]

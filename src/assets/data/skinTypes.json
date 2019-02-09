@@ -1,0 +1,65 @@
+[
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/0d48805-fffd593-0bc433a-bce6c4e.png"
+    },
+    "name": "Outfit",
+    "click":"skins_type_outfit"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/64087df-9188c65-211f759-0874aee.png"
+    },
+    "name": "Backpack",
+    "click":"skins_type_backpack"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/b2ac28c-567719a-1a47611-c9010d3.png"
+    },
+    "name": "Glider",
+    "click":"skins_type_glider"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/a7fb65f-9eb9942-3348ab3-c7b5aa8.png"
+    },
+    "name": "Pickaxe",
+    "click":"skins_type_pickaxe"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/53ce0ce-c6b4989-21c603d-684591f.png"
+    },
+    "name": "Emote",
+    "click":"skins_type_emote"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/dee77c9-8e0d63d-b049fb2-5258c38.png"
+    },
+    "name": "Toy",
+    "click":"skins_type_toy"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/baa0b72-3d759a1-47a03e2-1cb04f9.png"
+    },
+    "name": "Skydive",
+    "click":"skins_type_skydive"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/43ab640-73cd30a-0dd43c0-ffe0978.png"
+    },
+    "name": "Wrap",
+    "click":"skins_type_wrap"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/3c52d3f-62c2a0c-84f1415-2457118.png"
+    },
+    "name": "Spray",
+    "click":"skins_type_spray"
+  }
+]

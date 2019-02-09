@@ -1,0 +1,30 @@
+[
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/17617bd-fe663aa-107ae85-025b379/weapon.png"
+    },
+    "name": "Weapons",
+    "click":"weapons"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/933b9d5-8504591-5985835-e58925b.png"
+    },
+    "name": "Skins",
+    "click":"skins"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/f33a9a0-38fea4f-2d1f647-a6b7d78.png"
+    },
+    "name": "Stats",
+    "click":"stats"
+  },
+  {
+    "images": {
+      "background": "https://fortnite-public-files.theapinetwork.com/image/e9934ce-8b6aba1-ecff4e3-43b9828.png"
+    },
+    "name": "News",
+    "click":"news"
+  }
+]

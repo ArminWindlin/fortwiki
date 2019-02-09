@@ -1,0 +1,9 @@
+---
+applications:
+- name: fortwiki
+  memory: 128MB
+  routes:
+  - route: org-riseintime-fortwiki.scapp.io
+  instances: 1
+  env:
+    NODE_ENV: production
